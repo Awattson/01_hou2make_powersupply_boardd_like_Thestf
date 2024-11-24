@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPD85P04P407ATMA2
+D 40V, P-Ch, 7.3 m max, Automotive MOSFET, DPAK, OptiMOS-P2
+K
+F https://www.infineon.com/dgdl/Infineon-IPD85P04P4_07-DS-v01_00-en.pdf?fileId=db3a30432f69f146012f782666e92ddd
+$ENDCMP
+#
+#End Doc Library
