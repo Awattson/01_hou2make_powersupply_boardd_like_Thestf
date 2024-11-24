@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP IXTH140P05T
-D MOSFET -140 Amps -50V 0.008 Rds
-K
-F http://ixapps.ixys.com/datasheet/ds100027c(ixta-th-tp140p05t).pdf
-$ENDCMP
-#
-#End Doc Library

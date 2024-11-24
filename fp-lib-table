@@ -1,2 +1,3 @@
 (fp_lib_table
+  (lib (name 00_kicad_mods)(type KiCad)(uri ${KIPRJMOD}/STF-package/00_kicad_mods)(options "")(descr ""))
 )

@@ -1,2 +1,7 @@
 (sym_lib_table
+  (lib (name stf_02_IXTH140P05T)(type Legacy)(uri ${KIPRJMOD}/STF-package/02_symbols/stf_02_IXTH140P05T.lib)(options "")(descr ""))
+  (lib (name stf_03_LM350T_NOPB)(type Legacy)(uri ${KIPRJMOD}/STF-package/02_symbols/stf_03_LM350T_NOPB.lib)(options "")(descr ""))
+  (lib (name stf_04_NJM7805SDL1)(type Legacy)(uri ${KIPRJMOD}/STF-package/02_symbols/stf_04_NJM7805SDL1.lib)(options "")(descr ""))
+  (lib (name stf_09_CCG30-48-12S)(type Legacy)(uri ${KIPRJMOD}/STF-package/02_symbols/stf_09_CCG30-48-12S.lib)(options "")(descr ""))
+  (lib (name stf_11_2SK4017_Q_)(type Legacy)(uri ${KIPRJMOD}/STF-package/02_symbols/stf_11_2SK4017_Q_.lib)(options "")(descr ""))
 )

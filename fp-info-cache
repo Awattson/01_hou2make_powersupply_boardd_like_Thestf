@@ -1,4 +1,81 @@
-20026480814969826
+20025000875497820
+00_kicad_mods
+stf_01_HeatSink_25x17
+
+
+0
+2
+0
+00_kicad_mods
+stf_02_IXTH140P05T
+IXTH140P05T
+MOSFET (P-Channel)
+0
+3
+3
+00_kicad_mods
+stf_03_LM350T
+NDE0003B
+Integrated Circuit
+0
+3
+3
+00_kicad_mods
+stf_04_NJM7805SDL1-TE1
+
+
+0
+3
+3
+00_kicad_mods
+stf_05_TLP291_4.55x2.6mm_P1.27mm
+SOIC, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+4
+4
+00_kicad_mods
+stf_06_XT90PW
+
+
+0
+4
+4
+00_kicad_mods
+stf_07_molex_microfit4P_vertical_3Dmodel
+Molex Micro-Fit 3.0 Connector System, 43045-0412 (compatible alternatives: 43045-0413, 43045-0424), 2 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
+connector Molex Micro-Fit_3.0 side entry
+0
+4
+4
+00_kicad_mods
+stf_08_tanshidai_4P_cover
+
+
+0
+4
+4
+00_kicad_mods
+stf_09_CCG30-48-12S
+
+
+0
+6
+6
+00_kicad_mods
+stf_10_peach_Mbed
+Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino UNO R3
+0
+72
+72
+00_kicad_mods
+stf_11_TO230P230X650X740-3P
+
+
+0
+3
+3
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50714,13 +50791,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-FETheatsink
-HeatSink_25x17
-
-
-0
-2
-0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -51582,13 +51652,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-GR_Peach_sato
-Arduino_UNO_R3
-Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
-Arduino UNO R3
-0
-72
-72
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -51680,13 +51743,6 @@ heatsink
 0
 2
 1
-IXTH140P05T
-TO545P530X1600X2596-3P
-IXTH140P05T
-MOSFET (P-Channel)
-0
-3
-3
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -56230,13 +56286,6 @@ Yellow 5381 Series LED
 0
 2
 2
-LM350T_NOPB
-TO254P470X1028X1955-3P
-NDE0003B
-Integrated Circuit
-0
-3
-3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -77748,13 +77797,6 @@ Logo WEEE
 0
 0
 0
-TLP291
-TLP291_4.55x2.6mm_P1.27mm
-SOIC, 4 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-4
-4
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -81283,41 +81325,6 @@ screw terminal thread redcube thr power connector
 0
 18
 1
-Terminal_block_RSPro
-Terminal_block_RSPro_P10.16mm
-
-
-0
-4
-4
-Terminal_block_RSPro
-tanshidai
-
-
-0
-2
-2
-Terminal_block_RSPro
-tanshidai_4P
-
-
-0
-4
-4
-Terminal_block_RSPro
-tanshidai_4P_cover
-
-
-0
-4
-4
-Terminal_block_RSPro
-tanshidai_cover
-
-
-0
-2
-2
 TestPoint
 TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
 Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm
@@ -83096,13 +83103,6 @@ varistor SIOV
 0
 2
 2
-XT90
-XT90PW
-
-
-0
-4
-4
 digikey-footprints
 3-SIP_Module_TM1000Q
 
@@ -86351,10 +86351,3 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
-molex_microfit4P_vertical_3Dmodel
-molex_microfit4P_vertical_3Dmodel
-Molex Micro-Fit 3.0 Connector System, 43045-0412 (compatible alternatives: 43045-0413, 43045-0424), 2 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 side entry
-0
-4
-4
